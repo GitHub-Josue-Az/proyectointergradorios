@@ -1,0 +1,6 @@
+framework module Pods_ProyectoIntegradorAdmin {
+  umbrella header "Pods-ProyectoIntegradorAdmin-umbrella.h"
+
+  export *
+  module * { export * }
+}
